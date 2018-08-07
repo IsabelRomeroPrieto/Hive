@@ -1,0 +1,53 @@
+body{
+    margin-top: 0%;
+    border-top: solid 10px black;
+    margin-left:auto;
+    margin-right: auto;
+    width: 90%;
+    padding-top: 0
+
+}
+
+.centrar-imagen {
+    display: table;
+    margin: 0 auto
+}
+
+.main-menu {
+    padding: 0;
+    display: table;
+    margin: 0 auto;
+}
+
+li a {
+
+    display:block;
+    list-style-type:none;
+    font-weight:bold;
+    text-decoration-line:none;
+    color: black;
+    
+   
+}
+
+li {
+    padding:20px;
+    float:left;
+    color:#0000;
+}
+
+.principal {
+    border-top: solid 1px rgb(119, 117, 117); 
+}
+
+nav ul li.line {
+    border-top: solid 3px #000000;
+
+}
+.arreglar {
+    float: left;
+    width: 31.3%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
